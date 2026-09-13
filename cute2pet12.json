@@ -1,46 +1,57 @@
 [
   {
-    "id": "BX001",
-    "name": "lita (Imported Line)",
-    "stock": 3,
-    "stock_text": "3 ready to go",
-    "category": "Dog",
+    "id": "ST001",
+    "name": "Rose Quartz",
+    "stock": 10,
+    "stock_text": "10 ready to shipped",
+    "category": "Manifestation Stone",
     "location_count": 2,
-    "location_text": "Bangkok Import Farm",
+    "location_text": "Manchester, Canal Street, UK",
     "badge_status": "Low in stock",
-    "image_url": "https://i.pinimg.com/1200x/58/46/75/5846750b9a1d6934910d188b0370be03.jpg"
+    "image_url": "https://i.pinimg.com/736x/1d/91/78/1d9178878e5b26898588b4b1fb68088f.jpg"
   },
   {
-    "id": "SX002",
-    "name": "Samoyed (Champion Breed)",
+    "id": "ST002",
+    "name": "Aventurine Stone",
     "stock": 8,
-    "stock_text": "8 ready to go",
-    "category": "Dog",
+    "stock_text": "8 ready to shipped",
+    "category": "Manifestation Stone",
     "location_count": 1,
-    "location_text": "Central Region Export Hub",
+    "location_text": "Manchester, Canal Street, UK",
     "badge_status": "Available",
-    "image_url": "https://i.pinimg.com/1200x/67/33/9d/67339db99cb7fa25ba67537b47c67336.jpg"
+    "image_url": "https://i.pinimg.com/1200x/1c/90/44/1c9044b0b2e0cca5efe026406296be79.jpg"
   },
   {
-    "id": "MC003",
-    "name": "Maincoon (Chubby Cheek)",
+    "id": "ST003",
+    "name": "Amethyst Stone",
     "stock": 2,
-    "stock_text": "2 ready to go",
-    "category": "Cat",
+    "stock_text": "2 ready to shipped",
+    "category": "Manifestation Stone",
     "location_count": 1,
-    "location_text": "Central Region Export Hub",
+    "location_text": "Manchester, Canal Street, UK",
     "badge_status": "Low in stock",
-    "image_url": "https://i.pinimg.com/736x/a5/9a/b8/a59ab8a3456a1b696ad292f4b12e4bd9.jpg"
+    "image_url": "https://i.pinimg.com/1200x/ce/d6/cc/ced6cc52bb0d9893ab0ef098450afbd8.jpg"
   },
   {
-    "id": "RC004",
-    "name": "Ragdoll (Blue Eyes Premium)",
+    "id": "ST004",
+    "name": "Unakite Stone",
     "stock": 12,
-    "stock_text": "12 ready to go",
-    "category": "Cat",
+    "stock_text": "12 ready to shipped",
+    "category": "Manifestation Stone",
     "location_count": 3,
-    "location_text": "Suvarnabhumi Airport Cargo Hub",
+    "location_text": "Manchester, Canal Street, UK",
     "badge_status": "Available",
-    "image_url": "https://i.pinimg.com/736x/83/a7/e3/83a7e3932a2d0820443807f9d00005ed.jpg"
+    "image_url": "https://i.pinimg.com/736x/ab/b7/09/abb7096c3ef245325e18f13cb744fbf2.jpg"
+  },
+  {
+    "id": "ST005",
+    "name": "Moonstone",
+    "stock": 15,
+    "stock_text": "15 ready to shipped",
+    "category": "Manifestation Stone",
+    "location_count": 3,
+    "location_text": "Manchester, Canal Street, UK",
+    "badge_status": "Available",
+    "image_url": "https://i.pinimg.com/736x/63/22/03/632203917d94c770077c9e787dfaf50b.jpg"
   }
 ]
